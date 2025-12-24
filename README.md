@@ -5,17 +5,9 @@ Este proyecto es un blog desarrollado en Django para compartir artículos, ideas
 ## Características
 - Publicación de posts sobre temas de gobierno de datos
 - Creación y gestión de categorías y etiquetas relacionadas con Data Governance
-- Interfaz web sencilla y moderna
+- Interfaz web sencilla y moderna (Boostrap template)
 
-## Uso
-- Accede a `/posts/` para crear y ver publicaciones.
-- Accede a `/categorias/nueva/` para crear nuevas categorías.
-- Accede a `/etiquetas/nueva/` para crear nuevas etiquetas.
 
-## Tecnologías
-- Python 3
-- Django
-- Bootstrap (para el diseño)
-
-## Licencia
-Este proyecto está bajo la licencia MIT.
+## Credenciales para el panel de admin
+usuario administrador: admin
+contraseña: administrador1
